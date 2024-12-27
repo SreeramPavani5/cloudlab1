@@ -1,3 +1,5 @@
 hello DevOps
 Welcome to DevOps engineering
 Hi! I am Pavani 
+To deploy the file in GitHub via Git bash
+
